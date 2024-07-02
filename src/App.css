@@ -1,0 +1,11 @@
+* {
+  user-select: none;
+  margin: 0%;
+  padding: 0%;
+  color: #fff;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  background-color: transparent;
+}
